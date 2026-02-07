@@ -2,7 +2,7 @@
   "bot-account": {
     "username": "24/7 Bot", 
     "password": "",
-    "type": "mojang"
+    "type": "offline"
   },
 
   "server": {
