@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFKBo3T", 
+    "username": "24/7 Bot", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "waguriismp.aternos.me", 
-    "port": 58031,   
+    "ip": "ya1.progamer.me", 
+    "port": 31227,   
     "version": "1.12.1"   
   },
   
@@ -30,7 +30,7 @@
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 60,
 
